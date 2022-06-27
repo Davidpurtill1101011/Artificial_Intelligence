@@ -1,0 +1,2 @@
+# Artificial_Intelligence
+The Irish Times Ireland News Corpus 1 is a data set that contains 25 years of news from The Irish Times for the period 1996 to 2021. The dataset contains over 1,611,495 records in the form of {Publish Date, Headline Category, Headline Text}. The field Publish Date is in yyyymmdd format. The Headline Category is a hierarchical organisation of news categories from Business, Culture, Lifestyle, News, Opinion and Sport. Each one of these has sub- categories and sub-sub-categories totaling 90 for the full data set.
